@@ -50,6 +50,7 @@ public class Date21 extends BaseClass  {
 	
 	@Test
 	private void test3() {
+		System.out.println("new");
  System.out.println("test hi case 3");
 	}
 	
