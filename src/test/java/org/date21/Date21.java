@@ -40,10 +40,7 @@ public class Date21 extends BaseClass  {
 		
 	}
 	
-	@Test(enabled = false)
-	private void test1() {
- System.out.println("test case 1");
-	}
+	
 	
 	@Test(invocationCount = 5)
 	private void test2() {
