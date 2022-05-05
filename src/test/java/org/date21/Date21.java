@@ -30,7 +30,7 @@ public class Date21 extends BaseClass {
 		Date d = new Date();
 		System.out.println(d);
 		System.out.println("before Method");
-
+System.out.println("ndhcfhdasgvaskjb");
 	}
 
 	@AfterMethod
@@ -38,7 +38,7 @@ public class Date21 extends BaseClass {
 		Date d = new Date();
 		System.out.println(d);
 		System.out.println("after method");
-
+System.out.println("hdguygyd");
 	}
 
 	@Test(invocationCount = 5)
