@@ -44,7 +44,7 @@ public class Date21 extends BaseClass  {
 	
 	@Test(invocationCount = 5)
 	private void test2() {
- System.out.println("test case 2");
+ System.out.println("test conflict case 2");
 	}
 	
 	
